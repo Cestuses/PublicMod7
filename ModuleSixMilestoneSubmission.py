@@ -1,6 +1,3 @@
-# Christopher Carlson-Estes
-# A dictionary for the simplified dragon text game
-# The dictionary links a room to other rooms.
 
 # Sys allows for an exit to work that is acceptable for use.
 # Numpy allows for fancy indexing to allow only certain directions to be
